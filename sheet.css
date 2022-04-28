@@ -1,0 +1,10 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+.liHover:hover{
+  background-color: #ffc107;
+}
+.card{
+  height: 20vh;
+}
